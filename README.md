@@ -1,2 +1,3 @@
 # batman_project
-something
+
+The homework.py is about list comprehensions. 
